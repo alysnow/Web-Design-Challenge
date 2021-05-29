@@ -3,6 +3,7 @@ Week 11 - Web-Design-Challenge
 
 HTML and CSS has been applied to create a visualization dashboard website showcasing the analysis completed on weather data.
 
+![equatorsign.png](WebVisualizations/Images/equatorsign.png)
 
 # Assignment structure
 ```
@@ -68,6 +69,20 @@ import pandas as pd
 
 ------------------------------------------------------------------------------------------------------------
 
+|No|Source|Link|
+|-|-|-|
+|1|Cloudiness.html|https://alysnow.github.io/Cloudiness.html|
+|2|Comparison.html|https://alysnow.github.io/Comparison.html|
+|3|Data.html|https://alysnow.github.io/Data.html|
+|4|Humidity.html|https://alysnow.github.io/Humidity.html|
+|5|Landing.html|https://alysnow.github.io/Landing.html|
+|6|MaxTemperature.html|https://alysnow.github.io/MaxTemperature.html|
+|7|WindSpeed.html|https://alysnow.github.io/WindSpeed.html|
+|8|style.css|https://github.com/alysnow/Web-Design-Challenge/blob/main/WebVisualizations/style.css|
+|9|cities.csv|https://github.com/alysnow/Web-Design-Challenge/blob/main/WebVisualizations/Resources/cities.csv|
+|10|csv_to_html.ipynb|https://github.com/alysnow/Web-Design-Challenge/blob/main/WebVisualizations/Resources/csv_to_html.ipynb|
+
+
 # Web Visualization Dashboard Pages
 
 In building this dashboard, individual pages for each plot have been created and a means by which you can navigate between them. There is a totlal of 7 pages. These pages contain the visualizations and their corresponding explanations. A landing home page, a page where you can see a comparison of all of the plots, and another page where you can view the data used to build them in a table. 
@@ -82,11 +97,11 @@ Landing page contains:
 
 ### Landing Page: Full size
 
-![chart](xx.png)
+![Landing Page.PNG](WebVisualizations/Images/Landing Page.PNG)
 
 ### Landing Page: Reduced size
 
-![chart](xx.png)
+![Landing Page-sm.PNG](WebVisualizations/Images/Landing Page-sm.PNG)
 
 
 ## Comparison Page:
@@ -97,7 +112,7 @@ Comparison page contains:
 
 ### Comparison Page: Full size
 
-![chart](xx.png)
+![Comparison Page.PNG](WebVisualizations/Images/Comparison Page.PNG)
 
 ### Comparison Page: Reduced size
 
@@ -112,7 +127,7 @@ Data page contains:
 
 ### Data Page: Full size
 
-![chart](xx.png)
+![Data Page.PNG](WebVisualizations/Images/Data Page.PNG)
 
 ### Data Page: Reduced size
 
@@ -129,35 +144,35 @@ Each Visualization page contains:
 
 ### Max Temperature: Full size
 
-![chart](xx.png)
+![MaxTemperature Page.png](WebVisualizations/Images/MaxTemperature Page.png)
 
 ### Max Temperature: Reduced size
 
-![chart](xx.png)
+![MaxTemperature Page-sm.png](WebVisualizations/Images/MaxTemperature Page-sm.png)
 
 ### Humidity: Full size
 
-![chart](xx.png)
+![Humidity Page.png](WebVisualizations/Images/Humidity Page.png)
 
 ### Humidity: Reduced size
 
-![chart](xx.png)
+![Humidity Page-sm.png](WebVisualizations/Images/Humidity Page-sm.png)
 
 ### Cloudiness: Full size
 
-![chart](xx.png)
+![Cloudiness Page.png](WebVisualizations/Images/Cloudiness Page.png)
 
 ### Cloudiness: Reduced size
 
-![chart](xx.png)
+![Cloudiness Page-sm.png](WebVisualizations/Images/Cloudiness Page-sm.png)
 
 ### Wind Speed: Full size
 
-![chart](xx.png)
+![WindSpeed Page.png](WebVisualizations/Images/WindSpeed Page.png)
 
 ### Wind Speed: Reduced size
 
-![chart](xx.png)
+![WindSpeed Page-sm.png](WebVisualizations/Images/WindSpeed Page-sm.png)
 
 
 # Contributor
