@@ -97,11 +97,11 @@ Landing page contains:
 
 ### Landing Page: Full size
 
-![Landing Page.PNG](WebVisualizations/Images/Landing Page.PNG)
+![LandingPage.PNG](WebVisualizations/Images/LandingPage.PNG)
 
 ### Landing Page: Reduced size
 
-![Landing Page-sm.PNG](WebVisualizations/Images/Landing Page-sm.PNG)
+![LandingPage-sm.PNG](WebVisualizations/Images/LandingPage-sm.PNG)
 
 
 ## Comparison Page:
@@ -112,7 +112,7 @@ Comparison page contains:
 
 ### Comparison Page: Full size
 
-![Comparison Page.PNG](WebVisualizations/Images/Comparison Page.PNG)
+![ComparisonPage.PNG](WebVisualizations/Images/ComparisonPage.PNG)
 
 ### Comparison Page: Reduced size
 
@@ -127,7 +127,7 @@ Data page contains:
 
 ### Data Page: Full size
 
-![Data Page.PNG](WebVisualizations/Images/Data Page.PNG)
+![DataPage.PNG](WebVisualizations/Images/DataPage.PNG)
 
 ### Data Page: Reduced size
 
@@ -144,35 +144,35 @@ Each Visualization page contains:
 
 ### Max Temperature: Full size
 
-![MaxTemperature Page.png](WebVisualizations/Images/MaxTemperature Page.png)
+![MaxTemperaturePage.png](WebVisualizations/Images/MaxTemperaturePage.png)
 
 ### Max Temperature: Reduced size
 
-![MaxTemperature Page-sm.png](WebVisualizations/Images/MaxTemperature Page-sm.png)
+![MaxTemperaturePage-sm.png](WebVisualizations/Images/MaxTemperaturePage-sm.png)
 
 ### Humidity: Full size
 
-![Humidity Page.png](WebVisualizations/Images/Humidity Page.png)
+![HumidityPage.png](WebVisualizations/Images/HumidityPage.png)
 
 ### Humidity: Reduced size
 
-![Humidity Page-sm.png](WebVisualizations/Images/Humidity Page-sm.png)
+![HumidityPage-sm.png](WebVisualizations/Images/HumidityPage-sm.png)
 
 ### Cloudiness: Full size
 
-![Cloudiness Page.png](WebVisualizations/Images/Cloudiness Page.png)
+![CloudinessPage.png](WebVisualizations/Images/CloudinessPage.png)
 
 ### Cloudiness: Reduced size
 
-![Cloudiness Page-sm.png](WebVisualizations/Images/Cloudiness Page-sm.png)
+![CloudinessPage-sm.png](WebVisualizations/Images/CloudinessPage-sm.png)
 
 ### Wind Speed: Full size
 
-![WindSpeed Page.png](WebVisualizations/Images/WindSpeed Page.png)
+![WindSpeedPage.png](WebVisualizations/Images/WindSpeedPage.png)
 
 ### Wind Speed: Reduced size
 
-![WindSpeed Page-sm.png](WebVisualizations/Images/WindSpeed Page-sm.png)
+![WindSpeedPage-sm.png](WebVisualizations/Images/WindSpeedPage-sm.png)
 
 
 # Contributor
