@@ -40,23 +40,26 @@
   </div>
 </nav>
 
+<!-- Summary -->
+
 <div class="container">
-
-  <!-- Summary -->
-
-<div class="container-bg">
   <div class="container margin-top">
     <div class="row">
       
-      <div class="col-md-6 s-box-max">
-        <h2 class="h2-txt"> Max Temperature</h2>
+      <div class="col-md-6 s-box">
+        <h2 class="h2-txt"> Summary: Lattitude vs. X</h2>
         <hr>
         <p>
-          <img src="Images/MaxTemperature.png"  style="width:100%" class="images-fluid float-left" mr-4 ml3 alt="Lattitude vs. Max Temperature" id = "description-image">
-          As expected, the weather becomes significantly warmer as one approached the equator (0 Deg. Lattitude).
-          More interestingly, however, is the fact that the southern hemisphere tends to be warmer this time of the 
-          year than the northern hemisphere. This may be due to the tilt of the earth at the time of the year this 
-          data was gathered.
+          <img src="/GitHub/Web-Design-Challenge/Images/MaxTemperature.png"   style="width:50%"class="images-fluid float-left" mr-4 ml3 alt="Lattitude vs. Max Temperature" id = "description-image">
+          The purpose of this project was to analyze how weather changes as you get closer to the equator.
+          To accomplish this analysis, we first pulled data from the OpenWeatherMap API to assemble a dataset
+          on over 500 cities.
+          <br>
+          <br>
+          After assembling the dataset, we used Matplotlib to plot various aspects of the weather vs. latitude.
+          Factors we looked at included: temperature, cloudiness, wind speed, and humidity. This site provides
+          the source data and the visualizations created as part of the analysis, as well as explanations and
+          descriptions of any trends and correlations witnessed.
         </p>
       </div>
 
@@ -64,31 +67,33 @@
 
 <!-- Visualizations -->
 
-      <div class="col-md-5 v-box-max">
+      <div class="col-md-5 v-box">
         <div class="row">
           <div class="col-md-12">
             <h2 class="h2-txt"> Visualisations</h2>
             <hr>
         </div>
+        
       </div>
-      
+
+
         <div class="row">
-          <div class="col-md-6 column">
-            <a href="MaxTemperature.html"><img class="outline1" src="Images/MaxTemperature.png"  style="width:100%"alt="City Latitude vs. Max Temperature" id = "description-image"></a>
+          <div class="col-md-6">
+            <a href="/GitHub/Web-Design-Challenge/MaxTemperature.html"><img class="out1 plotresize" img src="/GitHub/Web-Design-Challenge/Images/MaxTemperature.png"  style="width:100%"alt="City Latitude vs. Max Temperature" id = "description-image"></a>
           </div>
 
-          <div class="col-md-6 column">
-            <a href="Humidity.html"><img class="out1" img src="Images/Humidity.png"  style="width:100%"alt="City Latitude vs. Humidity" id = "description-image"></a>
+          <div class="col-md-6">
+            <a href="/GitHub/Web-Design-Challenge/Humidity.html"><img class="out1 plotresize" img src="/GitHub/Web-Design-Challenge/Images/Humidity.png"  style="width:100%"alt="City Latitude vs. Humidity" id = "description-image"></a>
           </div>
         </div>
-         
+
         <div class="row">
-          <div class="col-md-6 column">
-            <a href="Cloudiness.html"><img class="out1" img src="Images/Cloudiness.png"  style="width:100%"alt="City Latitude vs. Cloudiness" id = "description-image"></a>
+          <div class="col-md-6">
+            <a href="/GitHub/Web-Design-Challenge/Cloudiness.html"><img class="out1 plotresize" img src="/GitHub/Web-Design-Challenge/Images/Cloudiness.png"  style="width:100%"alt="City Latitude vs. Cloudiness" id = "description-image"></a>
           </div>
 
-          <div class="col-md-6 column">
-            <a href="WindSpeed.html"><img class="out1" img src="Images/WindSpeed.png"  style="width:100%"alt="City Latitude vs. Wind Speed" id = "description-image"></a>
+          <div class="col-md-6">
+            <a href="/GitHub/Web-Design-Challenge/WindSpeed.html"><img class="out1 plotresize" img src="/GitHub/Web-Design-Challenge/Images/WindSpeed.png"  style="width:100%"alt="City Latitude vs. Wind Speed" id = "description-image"></a>
           </div>
         </div>
 
@@ -96,8 +101,6 @@
      
     </div>
   </div>
-</div>
-
 </div>
 
 

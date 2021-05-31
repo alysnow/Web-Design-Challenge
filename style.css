@@ -17,7 +17,7 @@
     margin-top: 40px;
     padding: 5px 5px 5px;
     color:black;
-    height: 425px;
+    height:auto;
 }
 
 .v-box {
@@ -25,7 +25,7 @@
     margin-top: 40px; 
     padding: 5px 5px 5px; 
     color:black;
-    height: 425px;
+    height:auto;
 }
 
 .s-box-max {
@@ -34,7 +34,6 @@
     padding: 5px 5px 5px;
     color:black;
     height: 600px;
-
 }
 
 .v-box-max {
@@ -42,7 +41,7 @@
     margin-top: 10px; 
     padding: 5px 5px 5px; 
     color:black;
-    height: 600px;
+    height: 425px;
 }
 
 .h2-txt {
@@ -58,7 +57,6 @@
 
 .margin-top {
     margin-top: 10px;
-
 }
 
 body {
@@ -98,19 +96,12 @@ body {
 
 .l-div {
     background-color: #EDEDED;
-    margin-top: 40px;
-    margin-bottom: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     padding-left: 30px;
     padding-right: 30px;
-    height: 425px;
-    /* width: 50px; */
-}
-
-.l-div-max {
-    background: #EDEDED;
-    margin: 0px;
-    padding: 5px 5px 5px;
-    height: 610px;
+    height: auto;
+    width: 50px;
 }
 
 @media screen and (max-width: 600px) {
@@ -118,20 +109,36 @@ body {
         background-color: #4aaaa5 !important;
         color: white !important;
     }
-    .s-box {
+
+    .column {
+        float: left;
+        width: 33.33%;
+        padding: 5px;
+      }
+
+    .row::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+
+    .s-box-max {
         background: white;
         margin-top: 40px;
         padding: 5px 5px 5px;
         color:black;
-        height: 500px;
+        height: auto;
     }
 
-    /* .plotresize {
-        width: 50%;
-        height: 50%;
-    } */
+    .v-box-max {
+        background: white;
+        margin-top: 40px;
+        padding: 5px 5px 5px;
+        color:black;
+        height: auto;
+    }
 
-    /* .plotresize {
-        max-width: 50%;
-    } */
+    .l-div {
+        display: none;
+    }
 }

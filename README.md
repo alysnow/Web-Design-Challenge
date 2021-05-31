@@ -3,43 +3,42 @@ Week 11 - Web-Design-Challenge
 
 HTML and CSS has been applied to create a visualization dashboard website showcasing the analysis completed on weather data.
 
-![equatorsign.png](WebVisualizations/Images/equatorsign.png)
+![equatorsign.png](Images/equatorsign.png)
 
 # Assignment structure
 ```
 Web-Design-Challenge
-|__ .gitignore                                # Gitignore file
-|__ README.md                                 # Markdown README
-|__ WebVisualizations/                        # Contains html, images and resource files
-|   |__ Cloudiness.html                       # .html
-|   |__ Comparison.html                       # .html
-|   |__ Data.html                             # .html
-|   |__ Humidity.html                         # .html
-|   |__ index.html                            # .html
-|   |__ MaxTemperature.html                   # .html
-|   |__ style.css                             # .css
-|   |__ images/                               # Matplotlib png and page screenshots
-|      |__Cloudiness Page.png                 # Screenshot - Page 06 - Full size
-|      |__Cloudiness Page-sm.png              # Screenshot - Page 06 - Reduced size
-|      |__Cloudiness.png                      # Matplotlib graph
-|      |__Comparison Page.png                 # Screenshot - Page 02 - Full size
-|      |__Comparison Page-sm.png              # Screenshot - Page 02 - Reduced size
-|      |__Data Page.png                       # Screenshot - Page 03 - Full size
-|      |__Data Page-sm.png                    # Screenshot - Page 03 - Reduced size
-|      |__Humidity Page.png                   # Screenshot - Page 05 - Full size
-|      |__Humidity Page.png                   # Screenshot - Page 05 - Reduced size
-|      |__Humidity.png                        # Matplotlib graph
-|      |__Index Page.png                      # Screenshot - Page 01 - Full size
-|      |__Index Page-sm.png                   # Screenshot - Page 01 - Reduced size
-|      |__MaxTemperature Page.png             # Screenshot - Page 04 - Full size
-|      |__MaxTemperature Page-sm.png          # Screenshot - Page 04 - Reduced size
-|      |__MaxTemperature.png                  # Matplotlib graph
-|      |__WindSpeed Page.png                  # Screenshot - Page 07 - Full size
-|      |__WindSpeed Page-sm.png               # Screenshot - Page 07 - Reduced size
-|      |__WindSpeed.png                       # Matplotlib graph
-|   |__ Resources/                            # CSV and Jupyter notebook
-|      |__cities.csv                          # CSV file for Data table
-|      |__csv_to_html.ipynb                   # Jupyter notebook DataFrame.to_html
+|__ .gitignore                              # Gitignore file
+|__ README.md                               # Markdown README
+|__ Cloudiness.html                         # .html
+|__ Comparison.html                         # .html
+|__ Data.html                               # .html
+|__ Humidity.html                           # .html
+|__ index.html                              # .html
+|__ MaxTemperature.html                     # .html
+|__ style.css                               # .css
+|__ images/                                 # Matplotlib png and page screenshots
+|    |__Cloudiness Page.png                 # Screenshot - Page 06 - Full size
+|    |__Cloudiness Page-sm.png              # Screenshot - Page 06 - Reduced size
+|    |__Cloudiness.png                      # Matplotlib graph
+|    |__Comparison Page.png                 # Screenshot - Page 02 - Full size
+|    |__Comparison Page-sm.png              # Screenshot - Page 02 - Reduced size
+|    |__Data Page.png                       # Screenshot - Page 03 - Full size
+|    |__Data Page-sm.png                    # Screenshot - Page 03 - Reduced size
+|    |__Humidity Page.png                   # Screenshot - Page 05 - Full size
+|    |__Humidity Page.png                   # Screenshot - Page 05 - Reduced size
+|    |__Humidity.png                        # Matplotlib graph
+|    |__Index Page.png                      # Screenshot - Page 01 - Full size
+|    |__Index Page-sm.png                   # Screenshot - Page 01 - Reduced size
+|    |__MaxTemperature Page.png             # Screenshot - Page 04 - Full size
+|    |__MaxTemperature Page-sm.png          # Screenshot - Page 04 - Reduced size
+|    |__MaxTemperature.png                  # Matplotlib graph
+|    |__WindSpeed Page.png                  # Screenshot - Page 07 - Full size
+|    |__WindSpeed Page-sm.png               # Screenshot - Page 07 - Reduced size
+|    |__WindSpeed.png                       # Matplotlib graph
+|__ Resources/                              # CSV and Jupyter notebook
+|    |__cities.csv                          # CSV file for Data table
+|    |__csv_to_html.ipynb                   # Jupyter notebook DataFrame.to_html
 
 ```
 
@@ -71,16 +70,16 @@ import pandas as pd
 
 |No|Source|Link|
 |-|-|-|
-|1|Cloudiness.html|https://alysnow.github.io/Cloudiness.html|
-|2|Comparison.html|https://alysnow.github.io/Comparison.html|
-|3|Data.html|https://alysnow.github.io/Data.html|
-|4|Humidity.html|https://alysnow.github.io/Humidity.html|
-|5|index.html|https://alysnow.github.io/index.html|
-|6|MaxTemperature.html|https://alysnow.github.io/MaxTemperature.html|
-|7|WindSpeed.html|https://alysnow.github.io/WindSpeed.html|
-|8|style.css|https://github.com/alysnow/Web-Design-Challenge/blob/main/WebVisualizations/style.css|
-|9|cities.csv|https://github.com/alysnow/Web-Design-Challenge/blob/main/WebVisualizations/Resources/cities.csv|
-|10|csv_to_html.ipynb|https://github.com/alysnow/Web-Design-Challenge/blob/main/WebVisualizations/Resources/csv_to_html.ipynb|
+|1|Cloudiness.html|https://alysnow.github.io/Web-Design-Challenge/Cloudiness.html|
+|2|Comparison.html|https://alysnow.github.io/Web-Design-Challenge/Comparison.html|
+|3|Data.html|https://alysnow.github.io/Web-Design-Challenge/Data.html|
+|4|Humidity.html|https://alysnow.github.io/Web-Design-Challenge/Humidity.html|
+|5|index.html|https://alysnow.github.io/Web-Design-Challenge/|
+|6|MaxTemperature.html|https://alysnow.github.io/Web-Design-Challenge/MaxTemperature.html|
+|7|WindSpeed.html|https://alysnow.github.io/Web-Design-Challenge/WindSpeed.html|
+|8|style.css|https://github.com/alysnow/Web-Design-Challenge/blob/main/style.css|
+|9|cities.csv|https://github.com/alysnow/Web-Design-Challenge/blob/main/Resources/cities.csv|
+|10|csv_to_html.ipynb|https://github.com/alysnow/Web-Design-Challenge/blob/main/Resources/csv_to_html.ipynb|
 
 
 # Web Visualization Dashboard Pages
@@ -97,11 +96,11 @@ Landing page contains:
 
 ### Landing Page: Full size
 
-![IndexPage.PNG](WebVisualizations/Images/IndexPage.PNG)
+![IndexPage.PNG](Images/IndexPage.PNG)
 
 ### Landing Page: Reduced size
 
-![IndexPage-sm.PNG](WebVisualizations/Images/IndexPage-sm.PNG)
+![IndexPage-sm.PNG](Images/IndexPage-sm.PNG)
 
 
 ## Comparison Page:
@@ -112,11 +111,11 @@ Comparison page contains:
 
 ### Comparison Page: Full size
 
-![ComparisonPage.PNG](WebVisualizations/Images/ComparisonPage.PNG)
+![ComparisonPage.PNG](Images/ComparisonPage.PNG)
 
 ### Comparison Page: Reduced size
 
-![ComparisonPage-sm.PNG](WebVisualizations/Images/ComparisonPage-sm.PNG)
+![ComparisonPage-sm.PNG](Images/ComparisonPage-sm.PNG)
 
 
 ## Data Page:
@@ -127,11 +126,11 @@ Data page contains:
 
 ### Data Page: Full size
 
-![DataPage.PNG](WebVisualizations/Images/DataPage.PNG)
+![DataPage.PNG](Images/DataPage.PNG)
 
 ### Data Page: Reduced size
 
-![DataPage-sm.PNG](WebVisualizations/Images/DataPage-sm.PNG)
+![DataPage-sm.PNG](Images/DataPage-sm.PNG)
 
 
 ## Visualization Page:
@@ -144,35 +143,35 @@ Each Visualization page contains:
 
 ### Max Temperature: Full size
 
-![MaxTemperaturePage.png](WebVisualizations/Images/MaxTemperaturePage.png)
+![MaxTemperaturePage.png](Images/MaxTemperaturePage.png)
 
 ### Max Temperature: Reduced size
 
-![MaxTemperaturePage-sm.png](WebVisualizations/Images/MaxTemperaturePage-sm.png)
+![MaxTemperaturePage-sm.png](Images/MaxTemperaturePage-sm.png)
 
 ### Humidity: Full size
 
-![HumidityPage.png](WebVisualizations/Images/HumidityPage.png)
+![HumidityPage.png](Images/HumidityPage.png)
 
 ### Humidity: Reduced size
 
-![HumidityPage-sm.png](WebVisualizations/Images/HumidityPage-sm.png)
+![HumidityPage-sm.png](Images/HumidityPage-sm.png)
 
 ### Cloudiness: Full size
 
-![CloudinessPage.png](WebVisualizations/Images/CloudinessPage.png)
+![CloudinessPage.png](Images/CloudinessPage.png)
 
 ### Cloudiness: Reduced size
 
-![CloudinessPage-sm.png](WebVisualizations/Images/CloudinessPage-sm.png)
+![CloudinessPage-sm.png](Images/CloudinessPage-sm.png)
 
 ### Wind Speed: Full size
 
-![WindSpeedPage.png](WebVisualizations/Images/WindSpeedPage.png)
+![WindSpeedPage.png](Images/WindSpeedPage.png)
 
 ### Wind Speed: Reduced size
 
-![WindSpeedPage-sm.png](WebVisualizations/Images/WindSpeedPage-sm.png)
+![WindSpeedPage-sm.png](Images/WindSpeedPage-sm.png)
 
 
 # Contributor
