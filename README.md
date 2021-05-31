@@ -75,7 +75,7 @@ import pandas as pd
 |2|Comparison.html|https://alysnow.github.io/Comparison.html|
 |3|Data.html|https://alysnow.github.io/Data.html|
 |4|Humidity.html|https://alysnow.github.io/Humidity.html|
-|5|Landing.html|https://alysnow.github.io/Landing.html|
+|5|index.html|https://alysnow.github.io/index.html|
 |6|MaxTemperature.html|https://alysnow.github.io/MaxTemperature.html|
 |7|WindSpeed.html|https://alysnow.github.io/WindSpeed.html|
 |8|style.css|https://github.com/alysnow/Web-Design-Challenge/blob/main/WebVisualizations/style.css|
