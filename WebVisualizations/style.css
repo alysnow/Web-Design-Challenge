@@ -113,7 +113,7 @@ body {
     height: 610px;
 }
 
-@media (max-width: 600px) {
+@media screen and (max-width: 600px) {
     .navbar {
         background-color: #4aaaa5 !important;
         color: white !important;
@@ -125,4 +125,13 @@ body {
         color:black;
         height: 500px;
     }
+
+    /* .plotresize {
+        width: 50%;
+        height: 50%;
+    } */
+
+    /* .plotresize {
+        max-width: 50%;
+    } */
 }

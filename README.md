@@ -15,7 +15,7 @@ Web-Design-Challenge
 |   |__ Comparison.html                       # .html
 |   |__ Data.html                             # .html
 |   |__ Humidity.html                         # .html
-|   |__ Landing.html                          # .html
+|   |__ index.html                            # .html
 |   |__ MaxTemperature.html                   # .html
 |   |__ style.css                             # .css
 |   |__ images/                               # Matplotlib png and page screenshots
@@ -29,8 +29,8 @@ Web-Design-Challenge
 |      |__Humidity Page.png                   # Screenshot - Page 05 - Full size
 |      |__Humidity Page.png                   # Screenshot - Page 05 - Reduced size
 |      |__Humidity.png                        # Matplotlib graph
-|      |__Landing Page.png                    # Screenshot - Page 01 - Full size
-|      |__Landing Page-sm.png                 # Screenshot - Page 01 - Reduced size
+|      |__Index Page.png                      # Screenshot - Page 01 - Full size
+|      |__Index Page-sm.png                   # Screenshot - Page 01 - Reduced size
 |      |__MaxTemperature Page.png             # Screenshot - Page 04 - Full size
 |      |__MaxTemperature Page-sm.png          # Screenshot - Page 04 - Reduced size
 |      |__MaxTemperature.png                  # Matplotlib graph
@@ -97,11 +97,11 @@ Landing page contains:
 
 ### Landing Page: Full size
 
-![LandingPage.PNG](WebVisualizations/Images/LandingPage.PNG)
+![IndexPage.PNG](WebVisualizations/Images/IndexPage.PNG)
 
 ### Landing Page: Reduced size
 
-![LandingPage-sm.PNG](WebVisualizations/Images/LandingPage-sm.PNG)
+![IndexPage-sm.PNG](WebVisualizations/Images/IndexPage-sm.PNG)
 
 
 ## Comparison Page:
@@ -116,7 +116,7 @@ Comparison page contains:
 
 ### Comparison Page: Reduced size
 
-![chart](xx.png)
+![ComparisonPage-sm.PNG](WebVisualizations/Images/ComparisonPage-sm.PNG)
 
 
 ## Data Page:
@@ -131,7 +131,7 @@ Data page contains:
 
 ### Data Page: Reduced size
 
-![chart](xx.png)
+![DataPage-sm.PNG](WebVisualizations/Images/DataPage-sm.PNG)
 
 
 ## Visualization Page:
